@@ -70,3 +70,8 @@ time, mark, audio, video {
 .question {
     margin-bottom: 2vh;
 }
+
+a {
+    margin-bottom: 2vh;
+    color: black;
+}
